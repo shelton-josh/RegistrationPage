@@ -1,7 +1,20 @@
 form {
-    background-color: lightsalmon;
-    border: thick solid black;
-    padding: 5px;
+    background-color: rgb(100, 183, 255);
+    border: solid black; 
     text-align: center;
-    width: 40em;
+    padding: 5px;
+    width: 80em;
+    height: 40em;
+}
+
+.boxes{
+    background-color: whitesmoke;
+    border: white;
+    width: 20em;
+}
+
+p1 {
+    width: 500px;
+    color: black;
+    text-align: left;
 }
