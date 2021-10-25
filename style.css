@@ -5,12 +5,13 @@ form {
     padding: 5px;
     width: 80em;
     height: 40em;
+    margin: auto;
 }
 
-.boxes{
-    background-color: whitesmoke;
+.boxes {
+    background-color: white;
     border: white;
-    width: 20em;
+    width: 300px;
 }
 
 p1 {
